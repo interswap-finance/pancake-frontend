@@ -68,7 +68,7 @@ interface FarmConfigBaseProps {
   lpSymbol: string
   lpAddresses: Address
   multiplier?: string
-  tokenSymbol?: Token
+  tokenSymbol?: string
   tokenAddresses?: Address
   isCommunity?: boolean
   dual?: {

@@ -19,14 +19,6 @@ export const mainnetTokens = defineTokens({
     'Wrapped BNB',
     'https://www.binance.com/',
   ),
-  atom: new Token(
-    MAINNET,
-    '0x0Eb3a705fc54725037CC9e008bDede697f62F335',
-    18,
-    'ATOM',
-    'Cosmos: ATOM Token',
-    'https://cosmos.network/',
-  ),
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
   bnb: new Token(MAINNET, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'BNB', 'BNB', 'https://www.binance.com/'),
   xsc: new Token(

@@ -94,7 +94,7 @@ const Hero = () => {
 
   return (
     <>
-      <BgWrapper><div className="body"/>
+      <BgWrapper><div className="galaxy" />
         <InnerWrapper>{theme.isDark ? <SlideSvgDark width="100%" /> : <SlideSvgLight width="100%" />}</InnerWrapper>
       </BgWrapper>
       <Flex

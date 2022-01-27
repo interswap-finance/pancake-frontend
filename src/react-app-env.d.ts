@@ -6,6 +6,9 @@ interface Window {
   BinanceChain?: {
     bnbSign?: (address: string, message: string) => Promise<{ publicKey: string; signature: string }>
   }
+  Polygon?: {
+    maticSign?: (address: string, message: string) => Promise<{ publicKey: string; signature: string }>
+  }
 }
 
 type SerializedBigNumber = string

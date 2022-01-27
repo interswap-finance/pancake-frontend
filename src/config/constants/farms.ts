@@ -27,7 +27,7 @@ const farms: SerializedFarmConfig[] = [
     lpSymbol: 'XSC-ETH LP',
     lpAddresses: {
       97: '',
-      56: '0xe84042994905f91164a2975a7dfac406998d1f34',
+      56: '0xE84042994905F91164A2975a7DfAc406998d1f34',
     },
     tokenSymbol: 'XSC',
     tokenAddresses: {

@@ -111,6 +111,11 @@ const Hero = () => {
           </Heading>
           <Heading scale="md" mb="24px">
             {t('Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.')}
+            {/* <button type="button" onClick={() => {
+                throw new Error("Sentry Frontend Error");
+            }}>
+                Throw error
+            </button> */}
           </Heading>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}

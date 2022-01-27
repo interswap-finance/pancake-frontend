@@ -243,7 +243,7 @@ export const mainnetTokens = defineTokens({
   ),
   syrup: new Token(
     MAINNET,
-    '0xa5b8188827efe9e8e09345ca065a56cbbfd87594',
+    '0xa5b8188827efE9E8E09345cA065A56cbbFd87594',
     18,
     'SYRUP',
     'SyrupBar Token',
@@ -251,7 +251,7 @@ export const mainnetTokens = defineTokens({
   ),
   carbon: new Token(
     MAINNET,
-    '0x8440ab92ad4bc90b606d17d38ca22a288820d29e',
+    '0x8440aB92aD4Bc90b606D17D38ca22a288820d29e',
     18,
     'CARBON',
     'Carbon Token',

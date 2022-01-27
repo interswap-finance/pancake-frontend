@@ -4,7 +4,7 @@
 
 import * as Sentry from '@sentry/nextjs'
 
-const SENTRY_DSN = process.env.SENTRY_DSN || process.env.NEXT_PUBLIC_SENTRY_DSN
+const SENTRY_DSN = 'https://ab6a26635be549469459326c25509632@o1128604.ingest.sentry.io/6171495';
 
 const isUserRejected = (err) => {
   // provider user rejected error code
@@ -12,7 +12,7 @@ const isUserRejected = (err) => {
 }
 
 Sentry.init({
-  dsn: SENTRY_DSN || 'https://ed98e16b9d704c22bef92d24bdd5f3b7@o1092725.ingest.sentry.io/6111410',
+  dsn: SENTRY_DSN || 'https://ab6a26635be549469459326c25509632@o1128604.ingest.sentry.io/6171495',
   integrations: [
     new Sentry.Integrations.Breadcrumbs({
       console: process.env.NODE_ENV === 'production',

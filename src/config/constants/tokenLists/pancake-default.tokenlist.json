@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "/logo.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -17,6 +17,30 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Electronero Smart Chain BEP20 Token",
+      "symbol": "XSC",
+      "address": "0x7155aFF27df20F9B0ecF8406A5A60c30043894Ec",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/images/tokens/0x7155aff27df20f9b0ecf8406a5a60c30043894ec.png"
+    },
+    {
+      "name": "Crystaleum CRYSTAL Token",
+      "symbol": "CRYSTAL",
+      "address": "0x4ca6B6b8F10EB17DbD1f8c3F313Eca2F779C6e0B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/images/tokens/0x4ca6B6b8F10EB17DbD1f8c3F313Eca2F779C6e0B.png"
+    },
+    {
+      "name": "Crystaleum CARBON Token",
+      "symbol": "CARBON",
+      "address": "0x8440ab92ad4bc90b606d17d38ca22a288820d29e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/images/tokens/0x8440ab92ad4bc90b606d17d38ca22a288820d29e.png"
     },
     {
       "name": "BUSD Token",
@@ -41,6 +65,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Cosmos: ATOM Token",
+      "symbol": "ATOM",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/images/tokens/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
     },
     {
       "name": "Tether USD",

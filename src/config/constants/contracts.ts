@@ -1,7 +1,19 @@
 export default {
   masterChef: {
     97: '0x1d32c2945C8FDCBc7156c553B7cEa4325a17f4f9',
+    56: '0xbc33C8AD9756b669F5ABFe6cE9B9Cb132C3Aff47',
+  },
+  CAKE_masterChef: {
+    97: '0x1d32c2945C8FDCBc7156c553B7cEa4325a17f4f9',
     56: '0x73feaa1eE314F8c655E354234017bE2193C9E24E',
+  },
+  XSC_masterChef: {
+    97: '0x1d32c2945C8FDCBc7156c553B7cEa4325a17f4f9',
+    56: '0xbc33C8AD9756b669F5ABFe6cE9B9Cb132C3Aff47',
+  },
+  CRYSTAL_gemologist: {
+    97: '0x1d32c2945C8FDCBc7156c553B7cEa4325a17f4f9',
+    56: '0x3307fEa1d0eFfCdDFA0485D3D593Af10B9677F06',
   },
   sousChef: {
     97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',

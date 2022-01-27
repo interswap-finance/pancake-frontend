@@ -68,6 +68,8 @@ interface FarmConfigBaseProps {
   lpSymbol: string
   lpAddresses: Address
   multiplier?: string
+  tokenSymbol?: Token
+  tokenAddresses?: Address
   isCommunity?: boolean
   dual?: {
     rewardPerBlock: number

@@ -37,10 +37,10 @@
     {
       "name": "Crystaleum CARBON Token",
       "symbol": "CARBON",
-      "address": "0x8440ab92ad4bc90b606d17d38ca22a288820d29e",
+      "address": "0x8440aB92aD4Bc90b606D17D38ca22a288820d29e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "http://localhost:3000/images/tokens/0x8440ab92ad4bc90b606d17d38ca22a288820d29e.png"
+      "logoURI": "http://localhost:3000/images/tokens/0x8440aB92aD4Bc90b606D17D38ca22a288820d29e.png"
     },
     {
       "name": "BUSD Token",
